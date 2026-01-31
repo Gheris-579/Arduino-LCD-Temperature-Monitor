@@ -54,6 +54,18 @@ and visualizes the temperature level with a **vertical bar graph** using custom 
 
 ---
 
+
+
+
+<img width="814" height="786" alt="image" src="https://github.com/user-attachments/assets/c21170b0-8533-4d1f-b1a4-64289ace1566" />
+
+
+<img width="852" height="806" alt="image" src="https://github.com/user-attachments/assets/b0f8f354-d19b-4992-8661-b494c0d571c0" />
+
+
+<img width="994" height="718" alt="image" src="https://github.com/user-attachments/assets/6e3d44a7-3b2d-4565-ba98-6bb32e8a4448" />
+
+
 ## 🖥️ LCD Output Example
 
 **Line 1: Temperature & Min/Max**
